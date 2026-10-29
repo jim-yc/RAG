@@ -63,6 +63,7 @@ uv pip install -r requirements.txt
 ├── rag.py             # RAG 核心運算
 ├── app.py             # 問答介面
 ├── news_data_all.json # 原始資料
+├── requirements.txt   # 套件列表
 ├── .gitignore         # Git 忽略清單
 └── README.md          # 專案說明文件
 ```
