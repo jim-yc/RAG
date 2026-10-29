@@ -4,7 +4,7 @@ from openai import OpenAI, OpenAIError
 import rag
 
 client = OpenAI(
-    base_url="http://192.168.51.155:9931/v1", #localhost
+    base_url="http://localhost:9931/v1",
     api_key="not-needed"
 )
 
